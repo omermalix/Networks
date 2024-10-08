@@ -1,3 +1,4 @@
+google.com, pub-3421357094020524, DIRECT, f08c47fec0942fa0
 applovin.com, beda2f052b8354555a7f7303995fb592, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
