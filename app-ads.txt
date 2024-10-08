@@ -28,6 +28,7 @@ smartadserver.com, 3817, RESELLER
 thebrave.io, 1234633, RESELLER, c25b2154543746ac
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
+facebook.com, 246112533740868, DIRECT, c3e20eee3f780d68
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
